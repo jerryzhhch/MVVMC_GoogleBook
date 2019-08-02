@@ -1,4 +1,4 @@
 # MVVMC_GoogleBook
 
 Description:
-IOS google book searc app using MVVMC Pattern
+IOS google book search app using MVVMC Pattern
